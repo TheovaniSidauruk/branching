@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class FileMgmt {
 
+  //Kommentar
   public String readFile(String inputfilename) {
     String result = "";
     try {
